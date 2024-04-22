@@ -1,0 +1,43 @@
+
+/*Edicion del titulo principal*/
+h1{
+color: #000000;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 45px;
+font-weight: normal;
+text-transform: none;
+}
+
+/*Edicion de los sub-titulos*/
+.titulo1{
+color: #000000;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 29px;
+font-weight: normal; 
+text-transform: none;
+}
+
+/*Cuerpo de la noticia*/
+body{
+    color: rgb(142, 137, 129);
+      background-color: rgba(235, 231, 228, 0.436);
+  text-indent: 5px;
+    text-align:left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    img height= 140 weight= 55
+.destacado p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size 44px;}
+    }
+
+/*Estilos imagen de superman*/
+.imagen2{
+  height: auto; 
+  width:122;
+}
+    /*Estilos imagen de los creadores*/
+.imagen1 {
+width: 510px;
+height: 400px;
+    }
+
